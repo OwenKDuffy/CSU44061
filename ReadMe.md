@@ -1,8 +1,7 @@
 
-#Machine Learning TCD
+# Machine Learning TCD
 
-##Contains 
+## Contains
 
--Repl.it Assignemnt 1 on Linear Regression
--Kaggle Competition Code
-
+- Repl.it Assignemnt 1 on Linear Regression
+- Kaggle Competition Code
